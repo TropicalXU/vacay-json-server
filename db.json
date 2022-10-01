@@ -3,7 +3,7 @@
         {
             "id": 0,
             "name": "Blue Mountains",
-            "image": "images/cottage1.jpg",
+            "image": "/images/cottage1.jpg",
             "description": "Nestled amongst the trees, this tiny cabin features a living area, tiny library, wood stove, sofa bed and kitchenette on the main floor with a queen size bed, night side tables and a dresser in the loft above.",
             "province": "Ontario",
             "featured": true,
@@ -13,7 +13,7 @@
         {
             "id": 1,
             "name": "Alpine Lakes",
-            "image": "images/cottage2.jpg",
+            "image": "/images/cottage2.jpg",
             "description": "A beautiful private lakefront cottage with 3 bedrooms and family room lake views. The perfect mini get away.",
             "province": "British Columbia",
             "featured": true,
@@ -23,7 +23,7 @@
         {
             "id": 2,
             "name": "Spruce Grove",
-            "image": "images/cottage3.jpg",
+            "image": "/images/cottage3.jpg",
             "description": "The cottage has a full kitchen with a spacious sit down eating area and includes dishes and cookware. The family room is roomy and comfortable with a beautiful view of the lake.",
             "province": "Alberta",
             "featured": true,
@@ -33,7 +33,7 @@
         {
             "id": 3,
             "name": "Maple Ridge",
-            "image": "images/cottage4.jpg",
+            "image": "/images/cottage4.jpg",
             "description": "Watch the sun rise and set in this cozy lake front cottage.",
             "province": "Quebec",
             "featured": true,
@@ -43,7 +43,7 @@
         {
             "id": 4,
             "name": "Richmond Hill",
-            "image": "images/cottage5.jpg",
+            "image": "/images/cottage5.jpg",
             "description": "Nestled on a private, 17 acre property with pond & trees is adjacent to golf course and wetlands, this stunning, cottage-like home offers all of the modern conveniences with natural views from every window.",
             "province": "Ontario",
             "featured": true,
@@ -53,7 +53,7 @@
         {
             "id": 5,
             "name": "Victoria Heights",
-            "image": "images/cottage6.jpg",
+            "image": "/images/cottage6.jpg",
             "description": "Let cabin fever go and breathe in the fresh mountain air at this 2-bedroom, 2-bath vacation rental home.",
             "province": "British Columbia",
             "featured": true,
@@ -63,7 +63,7 @@
         {
             "id": 6,
             "name": "Silent River",
-            "image": "images/cottage7.jpg",
+            "image": "/images/cottage7.jpg",
             "description": "Hide away or make it your base for endless excursions: 3 min to the private-access beach, skiing & snowboarding.",
             "province": "Alberta",
             "featured": false,
@@ -73,7 +73,7 @@
         {
             "id": 7,
             "name": "Mount Pearl",
-            "image": "images/cottage8.jpg",
+            "image": "/images/cottage8.jpg",
             "description": "A rustic cabin getaway with all the comforts of home. This is the perfect location to either have the ultimate outdoor experience or just stay cozy inside and enjoy the rustic ambiance.",
             "province": "Quebec",
             "featured": false,
@@ -83,7 +83,7 @@
         {
             "id": 8,
             "name": "Rusty Hills",
-            "image": "images/cottage9.jpg",
+            "image": "/images/cottage9.jpg",
             "description": "Relax, unwind, listen to birds and watch the trees sway in the breeze. Gaze at the brilliant night sky, put a log on the fire.",
             "province": "Ontario",
             "featured": true,
@@ -93,7 +93,7 @@
         {
             "id": 9,
             "name": "Lake Rishmoore",
-            "image": "images/cottage10.jpg",
+            "image": "/images/cottage10.jpg",
             "description": "Unique A-frame cabin in private setting. Loft bedroom upstairs and open floor plan on ground floor. Large wrap around deck with covered area for grilling or just hanging out.",
             "province": "British Columbia",
             "featured": true,
@@ -103,7 +103,7 @@
         {
             "id": 10,
             "name": "River Pheonix",
-            "image": "images/cottage11.jpg",
+            "image": "/images/cottage11.jpg",
             "description": "Our cozy chalet is the perfect escape for you and your loved ones. Bring the whole family to this great place with lots of room for fun.",
             "province": "Alberta",
             "featured": true,
@@ -113,7 +113,7 @@
         {
             "id": 11,
             "name": "Lake Alk",
-            "image": "images/cottage12.jpg",
+            "image": "/images/cottage12.jpg",
             "description": "Beautiful four season cottage home nestled away on four private wooded acres on the quiet South river water way leading to Forest lake .",
             "province": "Quebec",
             "featured": true,
@@ -123,7 +123,7 @@
         {
             "id": 12,
             "name": "Hillgrove",
-            "image": "images/cottage13.jpg",
+            "image": "/images/cottage13.jpg",
             "description": "We invite you to taaake it easy by the lake. Where contemporary style meets thoughtful accents, like coffee, tea and biscuits.",
             "province": "Ontario",
             "featured": false,
@@ -133,7 +133,7 @@
         {
             "id": 13,
             "name": "Mount Rhine",
-            "image": "images/cottage14.jpg",
+            "image": "/images/cottage14.jpg",
             "description": "This 4 star cottage is perfect for longer stays as it features a full kitchen and a deck for BBQs.",
             "province": "British Columbia",
             "featured": false,
@@ -143,7 +143,7 @@
         {
             "id": 14,
             "name": "Lake Ree",
-            "image": "images/cottage15.jpg",
+            "image": "/images/cottage15.jpg",
             "description": "You won’t forget your time in this romantic, memorable place. Please be advised that it’s a pet free property.",
             "province": "Alberta",
             "featured": false,
@@ -153,7 +153,7 @@
         {
             "id": 15,
             "name": "Oak Wood",
-            "image": "images/cottage16.jpg",
+            "image": "/images/cottage16.jpg",
             "description": "Beautiful Open Concept Waterfront Home with large sunk in living room wth stone wood burning fire place, Hot Tub on Lakeside Deck.",
             "province": "Quebec",
             "featured": true,
@@ -163,7 +163,7 @@
         {
             "id": 16,
             "name": "Lake Somm",
-            "image": "images/cottage17.jpg",
+            "image": "/images/cottage17.jpg",
             "description": "Lovely suite with its own 3 piece bathroom, living room with flat screen TV and kitchenette.",
             "province": "Ontario",
             "featured": true,
@@ -173,7 +173,7 @@
         {
             "id": 17,
             "name": "Winding Terrace",
-            "image": "images/cottage18.jpg",
+            "image": "/images/cottage18.jpg",
             "description": "Newly built custom luxury cottage, with brand new beds, mattress, furniture and furnishings.",
             "province": "British Columbia",
             "featured": false,
@@ -183,7 +183,7 @@
         {
             "id": 18,
             "name": "Oak River",
-            "image": "images/cottage19.jpg",
+            "image": "/images/cottage19.jpg",
             "description": "Forget your worries in this spacious and serene space. Breathtaking sunset views right on the lake.",
             "province": "Alberta",
             "featured": true,
@@ -193,7 +193,7 @@
         {
             "id": 19,
             "name": "Lake Ridge",
-            "image": "images/cottage20.jpg",
+            "image": "/images/cottage20.jpg",
             "description": "Relax with the whole family at this peaceful place to stay.",
             "province": "Quebec",
             "featured": true,
@@ -203,7 +203,7 @@
         {
             "id": 20,
             "name": "Creek Wood",
-            "image": "images/cottage21.jpg",
+            "image": "/images/cottage21.jpg",
             "description": "Enjoy your morning coffee while watching the morning sunrise on the lake. ",
             "province": "Ontario",
             "featured": true,
@@ -213,7 +213,7 @@
         {
             "id": 21,
             "name": "Woodbine Avenue",
-            "image": "images/cottage22.jpg",
+            "image": "/images/cottage22.jpg",
             "description": "Make some memories at this unique and family-friendly place.",
             "province": "British Columbia",
             "featured": false,
@@ -223,7 +223,7 @@
         {
             "id": 22,
             "name": "Pine Avenue",
-            "image": "images/cottage23.jpg",
+            "image": "/images/cottage23.jpg",
             "description": "Let cabin fever go and breathe in the fresh mountain air at this 2-bedroom, 2-bath vacation rental home",
             "province": "Alberta",
             "featured": false,
@@ -233,7 +233,7 @@
         {
             "id": 23,
             "name": "Dusty Loft",
-            "image": "images/cottage24.jpg",
+            "image": "/images/cottage24.jpg",
             "description": "The perfect couple’s getaway, nestled in beautiful Hidden Valley.",
             "province": "Quebec",
             "featured": false,
